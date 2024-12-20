@@ -9,10 +9,8 @@ Welcome to my portfolio! Here you can find my projects and details about my expe
 
 ## Download My CV
 
-[![Download My CV](CONTROLEUR DE GESTION : PMO.pdf](https://github.com/user-attachments/files/18209475/CONTROLEUR.DE.GESTION.PMO.pdf)
-[Click here to download my CV](CONTROLEUR DE GESTION : PMO.pdf](https://github.com/user-attachments/files/18209475/CONTROLEUR.DE.GESTION.PMO.pdf)
+[![Download My CV](CONTROLEUR DE GESTION : PMO.pdf]()
 
-[CV RHODES.pdf](CONTROLEUR DE GESTION : PMO.pdf](https://github.com/user-attachments/files/18209475/CONTROLEUR.DE.GESTION.PMO.pdf)
 
 <img width="1386" alt="Capture d’écran 2024-11-08 à 16 53 40" src="https://github.com/user-attachments/assets/d91d82f9-8bb1-44a8-ab93-dbe43959c731" />
 
